@@ -1,0 +1,389 @@
+TFlappy Bird
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Intermediates/PrecompiledHeaders/Flappy\ Bird-Prefix-cljgptwnhwajwvhhqqmrvqqeutio/Flappy\ Bird-Prefix.pch.pch Flappy\ Bird/Flappy\ Bird-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Flappy\ Bird/Build/Intermediates/Flappy\ Bird.build/Debug-iphonesimulator/Flappy\ Bird.build/Objects-normal/i386/ViewController.o /Users/JasonMillen/Desktop/Flappy\ Bird/Flappy\ Bird/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Flappy\ Bird/Build/Intermediates/Flappy\ Bird.build/Debug-iphonesimulator/Flappy\ Bird.build/Objects-normal/i386/AppDelegate.o /Users/JasonMillen/Desktop/Flappy\ Bird/Flappy\ Bird/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Flappy\ Bird/Build/Intermediates/Flappy\ Bird.build/Debug-iphonesimulator/Flappy\ Bird.build/Objects-normal/i386/main.o /Users/JasonMillen/Desktop/Flappy\ Bird/Flappy\ Bird/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Flappy\ Bird/Build/Intermediates/Flappy\ Bird.build/Debug-iphonesimulator/Flappy\ Bird.build/Objects-normal/i386/Game.o /Users/JasonMillen/Desktop/Flappy\ Bird/Game.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Products/Debug-iphonesimulator/Flappy\ Bird.app/Flappy\ Bird normal i386
+cCopyStringsFile /Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Products/Debug-iphonesimulator/Flappy\ Bird.app/en.lproj/InfoPlist.strings Flappy\ Bird/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/JasonMillen/Desktop/Flappy\ Bird/Flappy\ Bird/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Products/Debug-iphonesimulator/Flappy\ Bird.app /Users/JasonMillen/Desktop/Flappy\ Bird/Flappy\ Bird/Images.xcassets
+cProcessInfoPlistFile /Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Products/Debug-iphonesimulator/Flappy\ Bird.app/Info.plist /Users/JasonMillen/Desktop/Flappy\ Bird/Flappy\ Bird/Flappy\ Bird-Info.plist
+cGenerateDSYMFile /Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Products/Debug-iphonesimulator/Flappy\ Bird.app.dSYM /Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Products/Debug-iphonesimulator/Flappy\ Bird.app/Flappy\ Bird
+cTouch /Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Products/Debug-iphonesimulator/Flappy\ Bird.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000525642F10000000000000176
+t1381384945
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c0000000052CF560F00000000000003B5
+t1389319695
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000052CF561800000000000001A0
+t1389319704
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000052CF561B0000000000445870
+t1389319707
+s4479088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000052CF561E000000000088C680
+t1389319710
+s8963712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000052CF56240000000001DB9910
+t1389319716
+s31168784
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c0000000052CF564C0000000000000AC9
+t1389319756
+s2761
+
+N/Users/JasonMillen/Desktop/Flappy Bird/DerivedData/Flappy Bird/Build/Intermediates/Flappy Bird.build/Debug-iphonesimulator/Flappy Bird.build/Objects-normal/i386/AppDelegate.o
+t1410495357
+s65236
+
+N/Users/JasonMillen/Desktop/Flappy Bird/DerivedData/Flappy Bird/Build/Intermediates/Flappy Bird.build/Debug-iphonesimulator/Flappy Bird.build/Objects-normal/i386/Flappy Bird.LinkFileList
+c000000005412737C00000000000002B1
+t1410495356
+s689
+
+N/Users/JasonMillen/Desktop/Flappy Bird/DerivedData/Flappy Bird/Build/Intermediates/Flappy Bird.build/Debug-iphonesimulator/Flappy Bird.build/Objects-normal/i386/Game.o
+t1410495357
+s41832
+
+N/Users/JasonMillen/Desktop/Flappy Bird/DerivedData/Flappy Bird/Build/Intermediates/Flappy Bird.build/Debug-iphonesimulator/Flappy Bird.build/Objects-normal/i386/ViewController.o
+t1410495357
+s41016
+
+N/Users/JasonMillen/Desktop/Flappy Bird/DerivedData/Flappy Bird/Build/Intermediates/Flappy Bird.build/Debug-iphonesimulator/Flappy Bird.build/Objects-normal/i386/main.o
+t1410495357
+s3660
+
+N/Users/JasonMillen/Desktop/Flappy Bird/DerivedData/Flappy Bird/Build/Intermediates/Flappy Bird.build/Debug-iphonesimulator/Flappy Bird.build/assetcatalog_dependencies.txt
+t1410495359
+s462
+
+N/Users/JasonMillen/Desktop/Flappy Bird/DerivedData/Flappy Bird/Build/Intermediates/Flappy Bird.build/Debug-iphonesimulator/Flappy Bird.build/assetcatalog_generated_info.plist
+t1410495359
+s525
+
+N/Users/JasonMillen/Desktop/Flappy Bird/DerivedData/Flappy Bird/Build/Intermediates/PrecompiledHeaders/Flappy Bird-Prefix-cljgptwnhwajwvhhqqmrvqqeutio/Flappy Bird-Prefix.pch.pch
+t1410495357
+s108324
+
+N/Users/JasonMillen/Desktop/Flappy Bird/DerivedData/Flappy Bird/Build/Products/Debug-iphonesimulator/Flappy Bird.app
+t1410495359
+s306
+
+N/Users/JasonMillen/Desktop/Flappy Bird/DerivedData/Flappy Bird/Build/Products/Debug-iphonesimulator/Flappy Bird.app.dSYM
+t2
+s0
+
+N/Users/JasonMillen/Desktop/Flappy Bird/DerivedData/Flappy Bird/Build/Products/Debug-iphonesimulator/Flappy Bird.app/Base.lproj/Main.storyboardc
+t1410495358
+s238
+
+N/Users/JasonMillen/Desktop/Flappy Bird/DerivedData/Flappy Bird/Build/Products/Debug-iphonesimulator/Flappy Bird.app/Flappy Bird
+t1410495358
+s17936
+
+N/Users/JasonMillen/Desktop/Flappy Bird/DerivedData/Flappy Bird/Build/Products/Debug-iphonesimulator/Flappy Bird.app/Info.plist
+t1410495359
+s929
+
+N/Users/JasonMillen/Desktop/Flappy Bird/DerivedData/Flappy Bird/Build/Products/Debug-iphonesimulator/Flappy Bird.app/PkgInfo
+t1410495359
+s8
+
+N/Users/JasonMillen/Desktop/Flappy Bird/DerivedData/Flappy Bird/Build/Products/Debug-iphonesimulator/Flappy Bird.app/en.lproj/InfoPlist.strings
+t1410495358
+s42
+
+N/Users/JasonMillen/Desktop/Flappy Bird/Flappy Bird/AppDelegate.m
+c000000005412717E00000000000007DD
+t1410494846
+s2013
+
+N/Users/JasonMillen/Desktop/Flappy Bird/Flappy Bird/Base.lproj/Main.storyboard
+c000000005412737C00000000000012D9
+t1410495356
+s4825
+
+N/Users/JasonMillen/Desktop/Flappy Bird/Flappy Bird/Flappy Bird-Info.plist
+c0000000054127188000000000000044F
+t1410494856
+s1103
+
+N/Users/JasonMillen/Desktop/Flappy Bird/Flappy Bird/Flappy Bird-Prefix.pch
+c000000005412717E0000000000000158
+t1410494846
+s344
+
+N/Users/JasonMillen/Desktop/Flappy Bird/Flappy Bird/Images.xcassets
+c000000005412717E0000000000000088
+t1410494846
+s136
+
+N/Users/JasonMillen/Desktop/Flappy Bird/Flappy Bird/ViewController.m
+c000000005412717E00000000000001F3
+t1410494846
+s499
+
+N/Users/JasonMillen/Desktop/Flappy Bird/Flappy Bird/en.lproj/InfoPlist.strings
+c000000005412717E000000000000002D
+t1410494846
+s45
+
+N/Users/JasonMillen/Desktop/Flappy Bird/Flappy Bird/main.m
+c000000005412717E0000000000000157
+t1410494846
+s343
+
+N/Users/JasonMillen/Desktop/Flappy Bird/Game.m
+c000000005412732C000000000000029A
+t1410495276
+s666
+
+CBuild AST from /Users/JasonMillen/Desktop/Flappy\ Bird/Flappy\ Bird/AppDelegate.m
+r0
+
+CBuild AST from /Users/JasonMillen/Desktop/Flappy\ Bird/Flappy\ Bird/ViewController.m
+r0
+
+CBuild AST from /Users/JasonMillen/Desktop/Flappy\ Bird/Flappy\ Bird/main.m
+r0
+
+CBuild AST from /Users/JasonMillen/Desktop/Flappy\ Bird/Game.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesd11e6bfcaac2b941^7d7575fcaac2b941^---0#1#1#--18"Check dependencies36"45F3551F-1B7B-419C-B794-288765068EA2-
+
+CCompileAssetCatalog /Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Products/Debug-iphonesimulator/Flappy\ Bird.app /Users/JasonMillen/Desktop/Flappy\ Bird/Flappy\ Bird/Images.xcassets
+s432188158.124217
+e432188159.473849
+r1
+xCompileAssetCatalog
+x/Users/JasonMillen/Desktop/Flappy Bird/DerivedData/Flappy Bird/Build/Products/Debug-iphonesimulator/Flappy Bird.app
+x/Users/JasonMillen/Desktop/Flappy Bird/Flappy Bird/Images.xcassets
+o2014-09-12 00:15:59.271 IBCocoaTouchImageCatalogTool[10477:303] CFPreferences: user home directory at file:///Users/JasonMillen/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+o/* com.apple.actool.compilation-results */
+o/Users/JasonMillen/Desktop/Flappy Bird/DerivedData/Flappy Bird/Build/Products/Debug-iphonesimulator/Flappy Bird.app/LaunchImage-700-568h@2x.png
+o/Users/JasonMillen/Desktop/Flappy Bird/DerivedData/Flappy Bird/Build/Products/Debug-iphonesimulator/Flappy Bird.app/Assets.car
+o/Users/JasonMillen/Desktop/Flappy Bird/DerivedData/Flappy Bird/Build/Intermediates/Flappy Bird.build/Debug-iphonesimulator/Flappy Bird.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"CompileAssetCatalog DerivedData/Flappy\ Bird/Build/Products/Debug-iphonesimulator/Flappy\ Bird.app Flappy\ Bird/Images.xcassets127"CompileAssetCatalog DerivedData/Flappy\ Bird/Build/Products/Debug-iphonesimulator/Flappy\ Bird.app Flappy\ Bird/Images.xcassetsa6f11ffeaac2b941^3c4e79ffaac2b941^-720"2014-09-12 00:15:59.271 IBCocoaTouchImageCatalogTool[10477:303] CFPreferences: user home directory at file:///Users/JasonMillen/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile./* com.apple.actool.compilation-results *//Users/JasonMillen/Desktop/Flappy Bird/DerivedData/Flappy Bird/Build/Products/Debug-iphonesimulator/Flappy Bird.app/LaunchImage-700-568h@2x.png/Users/JasonMillen/Desktop/Flappy Bird/DerivedData/Flappy Bird/Build/Products/Debug-iphonesimulator/Flappy Bird.app/Assets.car/Users/JasonMillen/Desktop/Flappy Bird/DerivedData/Flappy Bird/Build/Intermediates/Flappy Bird.build/Debug-iphonesimulator/Flappy Bird.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@87"file://localhost/Users/JasonMillen/Desktop/Flappy%20Bird/Flappy%20Bird/Images.xcassets/0000000000000000^1284"CompileAssetCatalog DerivedData/Flappy\ Bird/Build/Products/Debug-iphonesimulator/Flappy\ Bird.app Flappy\ Bird/Images.xcassets    cd "/Users/JasonMillen/Desktop/Flappy Bird"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Intermediates/Flappy\ Bird.build/Debug-iphonesimulator/Flappy\ Bird.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Intermediates/Flappy\ Bird.build/Debug-iphonesimulator/Flappy\ Bird.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --compress-pngs --compile /Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Products/Debug-iphonesimulator/Flappy\ Bird.app /Users/JasonMillen/Desktop/Flappy\ Bird/Flappy\ Bird/Images.xcassets36"1DEC8AEA-216A-41E1-B5CC-E931EB96C452-
+b6397350F-5AFB-4399-9023-F6F243C15722
+
+CCompileC DerivedData/Flappy\ Bird/Build/Intermediates/Flappy\ Bird.build/Debug-iphonesimulator/Flappy\ Bird.build/Objects-normal/i386/AppDelegate.o /Users/JasonMillen/Desktop/Flappy\ Bird/Flappy\ Bird/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s432188157.686536
+e432188157.868772
+r1
+xCompileC
+xDerivedData/Flappy Bird/Build/Intermediates/Flappy Bird.build/Debug-iphonesimulator/Flappy Bird.build/Objects-normal/i386/AppDelegate.o
+x/Users/JasonMillen/Desktop/Flappy Bird/Flappy Bird/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/JasonMillen/Desktop/Flappy Bird/Flappy Bird/AppDelegate.m
+d/Users/JasonMillen/Desktop/Flappy Bird/Flappy Bird/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/JasonMillen/Desktop/Flappy Bird/Flappy Bird/AppDelegate.m242"CompileC DerivedData/Flappy\ Bird/Build/Intermediates/Flappy\ Bird.build/Debug-iphonesimulator/Flappy\ Bird.build/Objects-normal/i386/AppDelegate.o Flappy\ Bird/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerbaf8affdaac2b941^f967defdaac2b941^---0#0#1#-19%DVTDocumentLocation2@84"file://localhost/Users/JasonMillen/Desktop/Flappy%20Bird/Flappy%20Bird/AppDelegate.m0000000000000000^4122"CompileC DerivedData/Flappy\ Bird/Build/Intermediates/Flappy\ Bird.build/Debug-iphonesimulator/Flappy\ Bird.build/Objects-normal/i386/AppDelegate.o Flappy\ Bird/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/JasonMillen/Desktop/Flappy Bird"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Intermediates/Flappy\ Bird.build/Debug-iphonesimulator/Flappy\ Bird.build/Flappy\ Bird-generated-files.hmap -I/Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Intermediates/Flappy\ Bird.build/Debug-iphonesimulator/Flappy\ Bird.build/Flappy\ Bird-own-target-headers.hmap -I/Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Intermediates/Flappy\ Bird.build/Debug-iphonesimulator/Flappy\ Bird.build/Flappy\ Bird-all-target-headers.hmap -iquote /Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Intermediates/Flappy\ Bird.build/Debug-iphonesimulator/Flappy\ Bird.build/Flappy\ Bird-project-headers.hmap -I/Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Intermediates/Flappy\ Bird.build/Debug-iphonesimulator/Flappy\ Bird.build/DerivedSources/i386 -I/Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Intermediates/Flappy\ Bird.build/Debug-iphonesimulator/Flappy\ Bird.build/DerivedSources -F/Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Products/Debug-iphonesimulator -include /Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Intermediates/PrecompiledHeaders/Flappy\ Bird-Prefix-cljgptwnhwajwvhhqqmrvqqeutio/Flappy\ Bird-Prefix.pch -MMD -MT dependencies -MF /Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Intermediates/Flappy\ Bird.build/Debug-iphonesimulator/Flappy\ Bird.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Intermediates/Flappy\ Bird.build/Debug-iphonesimulator/Flappy\ Bird.build/Objects-normal/i386/AppDelegate.dia -c /Users/JasonMillen/Desktop/Flappy\ Bird/Flappy\ Bird/AppDelegate.m -o /Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Intermediates/Flappy\ Bird.build/Debug-iphonesimulator/Flappy\ Bird.build/Objects-normal/i386/AppDelegate.o36"72B0BD17-9F20-48FD-94E7-670F88618C9A-
+b6397350F-5AFB-4399-9023-F6F243C15722
+
+CCompileC DerivedData/Flappy\ Bird/Build/Intermediates/Flappy\ Bird.build/Debug-iphonesimulator/Flappy\ Bird.build/Objects-normal/i386/Game.o /Users/JasonMillen/Desktop/Flappy\ Bird/Game.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s432188157.688969
+e432188157.864324
+r1
+xCompileC
+xDerivedData/Flappy Bird/Build/Intermediates/Flappy Bird.build/Debug-iphonesimulator/Flappy Bird.build/Objects-normal/i386/Game.o
+x/Users/JasonMillen/Desktop/Flappy Bird/Game.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/JasonMillen/Desktop/Flappy Bird/Game.m
+d/Users/JasonMillen/Desktop/Flappy Bird/Game.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Compile /Users/JasonMillen/Desktop/Flappy Bird/Game.m215"CompileC DerivedData/Flappy\ Bird/Build/Intermediates/Flappy\ Bird.build/Debug-iphonesimulator/Flappy\ Bird.build/Objects-normal/i386/Game.o Game.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler37a5b0fdaac2b941^5245ddfdaac2b941^---0#0#1#-19%DVTDocumentLocation2@63"file://localhost/Users/JasonMillen/Desktop/Flappy%20Bird/Game.m0000000000000000^4054"CompileC DerivedData/Flappy\ Bird/Build/Intermediates/Flappy\ Bird.build/Debug-iphonesimulator/Flappy\ Bird.build/Objects-normal/i386/Game.o Game.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/JasonMillen/Desktop/Flappy Bird"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Intermediates/Flappy\ Bird.build/Debug-iphonesimulator/Flappy\ Bird.build/Flappy\ Bird-generated-files.hmap -I/Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Intermediates/Flappy\ Bird.build/Debug-iphonesimulator/Flappy\ Bird.build/Flappy\ Bird-own-target-headers.hmap -I/Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Intermediates/Flappy\ Bird.build/Debug-iphonesimulator/Flappy\ Bird.build/Flappy\ Bird-all-target-headers.hmap -iquote /Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Intermediates/Flappy\ Bird.build/Debug-iphonesimulator/Flappy\ Bird.build/Flappy\ Bird-project-headers.hmap -I/Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Intermediates/Flappy\ Bird.build/Debug-iphonesimulator/Flappy\ Bird.build/DerivedSources/i386 -I/Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Intermediates/Flappy\ Bird.build/Debug-iphonesimulator/Flappy\ Bird.build/DerivedSources -F/Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Products/Debug-iphonesimulator -include /Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Intermediates/PrecompiledHeaders/Flappy\ Bird-Prefix-cljgptwnhwajwvhhqqmrvqqeutio/Flappy\ Bird-Prefix.pch -MMD -MT dependencies -MF /Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Intermediates/Flappy\ Bird.build/Debug-iphonesimulator/Flappy\ Bird.build/Objects-normal/i386/Game.d --serialize-diagnostics /Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Intermediates/Flappy\ Bird.build/Debug-iphonesimulator/Flappy\ Bird.build/Objects-normal/i386/Game.dia -c /Users/JasonMillen/Desktop/Flappy\ Bird/Game.m -o /Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Intermediates/Flappy\ Bird.build/Debug-iphonesimulator/Flappy\ Bird.build/Objects-normal/i386/Game.o36"6FA188BB-DCEF-47BB-9D30-D7A0A6D6FD07-
+b6397350F-5AFB-4399-9023-F6F243C15722
+
+CCompileC DerivedData/Flappy\ Bird/Build/Intermediates/Flappy\ Bird.build/Debug-iphonesimulator/Flappy\ Bird.build/Objects-normal/i386/ViewController.o /Users/JasonMillen/Desktop/Flappy\ Bird/Flappy\ Bird/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s432188157.686318
+e432188157.862686
+r1
+xCompileC
+xDerivedData/Flappy Bird/Build/Intermediates/Flappy Bird.build/Debug-iphonesimulator/Flappy Bird.build/Objects-normal/i386/ViewController.o
+x/Users/JasonMillen/Desktop/Flappy Bird/Flappy Bird/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/JasonMillen/Desktop/Flappy Bird/Flappy Bird/ViewController.m
+d/Users/JasonMillen/Desktop/Flappy Bird/Flappy Bird/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/JasonMillen/Desktop/Flappy Bird/Flappy Bird/ViewController.m248"CompileC DerivedData/Flappy\ Bird/Build/Intermediates/Flappy\ Bird.build/Debug-iphonesimulator/Flappy\ Bird.build/Objects-normal/i386/ViewController.o Flappy\ Bird/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler13f4affdaac2b941^1fd9dcfdaac2b941^---0#0#1#-19%DVTDocumentLocation2@87"file://localhost/Users/JasonMillen/Desktop/Flappy%20Bird/Flappy%20Bird/ViewController.m0000000000000000^4140"CompileC DerivedData/Flappy\ Bird/Build/Intermediates/Flappy\ Bird.build/Debug-iphonesimulator/Flappy\ Bird.build/Objects-normal/i386/ViewController.o Flappy\ Bird/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/JasonMillen/Desktop/Flappy Bird"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Intermediates/Flappy\ Bird.build/Debug-iphonesimulator/Flappy\ Bird.build/Flappy\ Bird-generated-files.hmap -I/Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Intermediates/Flappy\ Bird.build/Debug-iphonesimulator/Flappy\ Bird.build/Flappy\ Bird-own-target-headers.hmap -I/Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Intermediates/Flappy\ Bird.build/Debug-iphonesimulator/Flappy\ Bird.build/Flappy\ Bird-all-target-headers.hmap -iquote /Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Intermediates/Flappy\ Bird.build/Debug-iphonesimulator/Flappy\ Bird.build/Flappy\ Bird-project-headers.hmap -I/Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Intermediates/Flappy\ Bird.build/Debug-iphonesimulator/Flappy\ Bird.build/DerivedSources/i386 -I/Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Intermediates/Flappy\ Bird.build/Debug-iphonesimulator/Flappy\ Bird.build/DerivedSources -F/Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Products/Debug-iphonesimulator -include /Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Intermediates/PrecompiledHeaders/Flappy\ Bird-Prefix-cljgptwnhwajwvhhqqmrvqqeutio/Flappy\ Bird-Prefix.pch -MMD -MT dependencies -MF /Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Intermediates/Flappy\ Bird.build/Debug-iphonesimulator/Flappy\ Bird.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Intermediates/Flappy\ Bird.build/Debug-iphonesimulator/Flappy\ Bird.build/Objects-normal/i386/ViewController.dia -c /Users/JasonMillen/Desktop/Flappy\ Bird/Flappy\ Bird/ViewController.m -o /Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Intermediates/Flappy\ Bird.build/Debug-iphonesimulator/Flappy\ Bird.build/Objects-normal/i386/ViewController.o36"95C7F161-4544-4722-AEC0-2AE06712507E-
+b6397350F-5AFB-4399-9023-F6F243C15722
+
+CCompileC DerivedData/Flappy\ Bird/Build/Intermediates/Flappy\ Bird.build/Debug-iphonesimulator/Flappy\ Bird.build/Objects-normal/i386/main.o /Users/JasonMillen/Desktop/Flappy\ Bird/Flappy\ Bird/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s432188157.686770
+e432188157.859289
+r1
+xCompileC
+xDerivedData/Flappy Bird/Build/Intermediates/Flappy Bird.build/Debug-iphonesimulator/Flappy Bird.build/Objects-normal/i386/main.o
+x/Users/JasonMillen/Desktop/Flappy Bird/Flappy Bird/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/JasonMillen/Desktop/Flappy Bird/Flappy Bird/main.m
+d/Users/JasonMillen/Desktop/Flappy Bird/Flappy Bird/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/JasonMillen/Desktop/Flappy Bird/Flappy Bird/main.m228"CompileC DerivedData/Flappy\ Bird/Build/Intermediates/Flappy\ Bird.build/Debug-iphonesimulator/Flappy\ Bird.build/Objects-normal/i386/main.o Flappy\ Bird/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler450fb0fdaac2b941^d3fadbfdaac2b941^---0#0#1#-19%DVTDocumentLocation2@77"file://localhost/Users/JasonMillen/Desktop/Flappy%20Bird/Flappy%20Bird/main.m0000000000000000^4080"CompileC DerivedData/Flappy\ Bird/Build/Intermediates/Flappy\ Bird.build/Debug-iphonesimulator/Flappy\ Bird.build/Objects-normal/i386/main.o Flappy\ Bird/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/JasonMillen/Desktop/Flappy Bird"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Intermediates/Flappy\ Bird.build/Debug-iphonesimulator/Flappy\ Bird.build/Flappy\ Bird-generated-files.hmap -I/Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Intermediates/Flappy\ Bird.build/Debug-iphonesimulator/Flappy\ Bird.build/Flappy\ Bird-own-target-headers.hmap -I/Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Intermediates/Flappy\ Bird.build/Debug-iphonesimulator/Flappy\ Bird.build/Flappy\ Bird-all-target-headers.hmap -iquote /Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Intermediates/Flappy\ Bird.build/Debug-iphonesimulator/Flappy\ Bird.build/Flappy\ Bird-project-headers.hmap -I/Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Intermediates/Flappy\ Bird.build/Debug-iphonesimulator/Flappy\ Bird.build/DerivedSources/i386 -I/Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Intermediates/Flappy\ Bird.build/Debug-iphonesimulator/Flappy\ Bird.build/DerivedSources -F/Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Products/Debug-iphonesimulator -include /Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Intermediates/PrecompiledHeaders/Flappy\ Bird-Prefix-cljgptwnhwajwvhhqqmrvqqeutio/Flappy\ Bird-Prefix.pch -MMD -MT dependencies -MF /Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Intermediates/Flappy\ Bird.build/Debug-iphonesimulator/Flappy\ Bird.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Intermediates/Flappy\ Bird.build/Debug-iphonesimulator/Flappy\ Bird.build/Objects-normal/i386/main.dia -c /Users/JasonMillen/Desktop/Flappy\ Bird/Flappy\ Bird/main.m -o /Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Intermediates/Flappy\ Bird.build/Debug-iphonesimulator/Flappy\ Bird.build/Objects-normal/i386/main.o36"8A84BE45-5B00-42E8-822A-DF43D7C111DF-
+b6397350F-5AFB-4399-9023-F6F243C15722
+
+CCompileStoryboard /Users/JasonMillen/Desktop/Flappy\ Bird/Flappy\ Bird/Base.lproj/Main.storyboard
+s432188158.123168
+e432188159.442140
+r1
+xCompileStoryboard
+x/Users/JasonMillen/Desktop/Flappy Bird/Flappy Bird/Base.lproj/Main.storyboard
+o2014-09-12 00:15:58.577 Interface Builder Cocoa Touch Tool[10471:303] CFPreferences: user home directory at file:///Users/JasonMillen/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"CompileStoryboard Flappy\ Bird/Base.lproj/Main.storyboard57"CompileStoryboard Flappy\ Bird/Base.lproj/Main.storyboard93ac1ffeaac2b941^375371ffaac2b941^-236"2014-09-12 00:15:58.577 Interface Builder Cocoa Touch Tool[10471:303] CFPreferences: user home directory at file:///Users/JasonMillen/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#1#-19%DVTDocumentLocation2@97"file://localhost/Users/JasonMillen/Desktop/Flappy%20Bird/Flappy%20Bird/Base.lproj/Main.storyboard0000000000000000^883"CompileStoryboard Flappy\ Bird/Base.lproj/Main.storyboard    cd "/Users/JasonMillen/Desktop/Flappy Bird"    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Products/Debug-iphonesimulator/Flappy\ Bird.app/Base.lproj/Main.storyboardc /Users/JasonMillen/Desktop/Flappy\ Bird/Flappy\ Bird/Base.lproj/Main.storyboard36"A957AE1A-5BCD-49BA-949B-EE9505ED1DD4-
+b6397350F-5AFB-4399-9023-F6F243C15722
+
+CCopyStringsFile /Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Products/Debug-iphonesimulator/Flappy\ Bird.app/en.lproj/InfoPlist.strings Flappy\ Bird/en.lproj/InfoPlist.strings
+s432188158.123061
+e432188158.128681
+r1
+xCopyStringsFile
+x/Users/JasonMillen/Desktop/Flappy Bird/DerivedData/Flappy Bird/Build/Products/Debug-iphonesimulator/Flappy Bird.app/en.lproj/InfoPlist.strings
+xFlappy Bird/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy Flappy Bird/en.lproj/InfoPlist.strings161"CopyStringsFile DerivedData/Flappy\ Bird/Build/Products/Debug-iphonesimulator/Flappy\ Bird.app/en.lproj/InfoPlist.strings Flappy\ Bird/en.lproj/InfoPlist.strings19e71ffeaac2b941^05fa20feaac2b941^---0#0#1#-19%DVTDocumentLocation2@97"file://localhost/Users/JasonMillen/Desktop/Flappy%20Bird/Flappy%20Bird/en.lproj/InfoPlist.strings0000000000000000^666"CopyStringsFile DerivedData/Flappy\ Bird/Build/Products/Debug-iphonesimulator/Flappy\ Bird.app/en.lproj/InfoPlist.strings Flappy\ Bird/en.lproj/InfoPlist.strings    cd "/Users/JasonMillen/Desktop/Flappy Bird"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Products/Debug-iphonesimulator/Flappy\ Bird.app/en.lproj -- Flappy\ Bird/en.lproj/InfoPlist.strings36"7C626DCF-6729-48E9-AC1F-6A13CBE09354-
+b6397350F-5AFB-4399-9023-F6F243C15722
+
+CGenerateDSYMFile /Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Products/Debug-iphonesimulator/Flappy\ Bird.app.dSYM /Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Products/Debug-iphonesimulator/Flappy\ Bird.app/Flappy\ Bird
+s432188159.493802
+e432188159.536254
+r1
+xGenerateDSYMFile
+x/Users/JasonMillen/Desktop/Flappy Bird/DerivedData/Flappy Bird/Build/Products/Debug-iphonesimulator/Flappy Bird.app.dSYM
+x/Users/JasonMillen/Desktop/Flappy Bird/DerivedData/Flappy Bird/Build/Products/Debug-iphonesimulator/Flappy Bird.app/Flappy Bird
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection129"Generate /Users/JasonMillen/Desktop/Flappy Bird/DerivedData/Flappy Bird/Build/Products/Debug-iphonesimulator/Flappy Bird.app.dSYM192"GenerateDSYMFile DerivedData/Flappy\ Bird/Build/Products/Debug-iphonesimulator/Flappy\ Bird.app.dSYM DerivedData/Flappy\ Bird/Build/Products/Debug-iphonesimulator/Flappy\ Bird.app/Flappy\ Birdb77a7effaac2b941^564889ffaac2b941^---0#0#1#-19%DVTDocumentLocation2@142"file://localhost/Users/JasonMillen/Desktop/Flappy%20Bird/DerivedData/Flappy%20Bird/Build/Products/Debug-iphonesimulator/Flappy%20Bird.app.dSYM0038a0f9ddffdf42^795"GenerateDSYMFile DerivedData/Flappy\ Bird/Build/Products/Debug-iphonesimulator/Flappy\ Bird.app.dSYM DerivedData/Flappy\ Bird/Build/Products/Debug-iphonesimulator/Flappy\ Bird.app/Flappy\ Bird    cd "/Users/JasonMillen/Desktop/Flappy Bird"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Products/Debug-iphonesimulator/Flappy\ Bird.app/Flappy\ Bird -o /Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Products/Debug-iphonesimulator/Flappy\ Bird.app.dSYM36"ADE35B34-494E-48D0-BF08-C3831760B2F5-
+b6397350F-5AFB-4399-9023-F6F243C15722
+
+CLd /Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Products/Debug-iphonesimulator/Flappy\ Bird.app/Flappy\ Bird normal i386
+s432188157.878456
+e432188158.113880
+r1
+xLd
+x/Users/JasonMillen/Desktop/Flappy Bird/DerivedData/Flappy Bird/Build/Products/Debug-iphonesimulator/Flappy Bird.app/Flappy Bird
+xnormal
+xi386
+d/Users/JasonMillen/Desktop/Flappy Bird/DerivedData/Flappy Bird/Build/Intermediates/Flappy Bird.build/Debug-iphonesimulator/Flappy Bird.build/Objects-normal/i386/Flappy Bird.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/JasonMillen/Desktop/Flappy Bird/DerivedData/Flappy Bird/Build/Intermediates/Flappy Bird.build/Debug-iphonesimulator/Flappy Bird.build/Objects-normal/i386/ViewController.o
+d/Users/JasonMillen/Desktop/Flappy Bird/DerivedData/Flappy Bird/Build/Intermediates/Flappy Bird.build/Debug-iphonesimulator/Flappy Bird.build/Objects-normal/i386/AppDelegate.o
+d/Users/JasonMillen/Desktop/Flappy Bird/DerivedData/Flappy Bird/Build/Intermediates/Flappy Bird.build/Debug-iphonesimulator/Flappy Bird.build/Objects-normal/i386/main.o
+d/Users/JasonMillen/Desktop/Flappy Bird/DerivedData/Flappy Bird/Build/Intermediates/Flappy Bird.build/Debug-iphonesimulator/Flappy Bird.build/Objects-normal/i386/Game.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libdnsinfo.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection132"Link /Users/JasonMillen/Desktop/Flappy Bird/DerivedData/Flappy Bird/Build/Products/Debug-iphonesimulator/Flappy Bird.app/Flappy Bird106"Ld DerivedData/Flappy\ Bird/Build/Products/Debug-iphonesimulator/Flappy\ Bird.app/Flappy\ Bird normal i3864f04e1fdaac2b941^9e281dfeaac2b941^---0#0#1#--1596"Ld DerivedData/Flappy\ Bird/Build/Products/Debug-iphonesimulator/Flappy\ Bird.app/Flappy\ Bird normal i386    cd "/Users/JasonMillen/Desktop/Flappy Bird"    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Products/Debug-iphonesimulator -F/Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Products/Debug-iphonesimulator -filelist /Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Intermediates/Flappy\ Bird.build/Debug-iphonesimulator/Flappy\ Bird.build/Objects-normal/i386/Flappy\ Bird.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Intermediates/Flappy\ Bird.build/Debug-iphonesimulator/Flappy\ Bird.build/Objects-normal/i386/Flappy\ Bird_dependency_info.dat -o /Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Products/Debug-iphonesimulator/Flappy\ Bird.app/Flappy\ Bird36"039F90A5-1508-48E1-B960-421A44683260-
+b6397350F-5AFB-4399-9023-F6F243C15722
+
+CProcessInfoPlistFile /Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Products/Debug-iphonesimulator/Flappy\ Bird.app/Info.plist /Users/JasonMillen/Desktop/Flappy\ Bird/Flappy\ Bird/Flappy\ Bird-Info.plist
+s432188159.482423
+e432188159.485488
+r1
+xProcessInfoPlistFile
+x/Users/JasonMillen/Desktop/Flappy Bird/DerivedData/Flappy Bird/Build/Products/Debug-iphonesimulator/Flappy Bird.app/Info.plist
+x/Users/JasonMillen/Desktop/Flappy Bird/Flappy Bird/Flappy Bird-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Process /Users/JasonMillen/Desktop/Flappy Bird/Flappy Bird/Flappy Bird-Info.plist147"ProcessInfoPlistFile DerivedData/Flappy\ Bird/Build/Products/Debug-iphonesimulator/Flappy\ Bird.app/Info.plist Flappy\ Bird/Flappy\ Bird-Info.plistcd937bffaac2b941^5e4b7cffaac2b941^---0#0#1#-19%DVTDocumentLocation2@95"file://localhost/Users/JasonMillen/Desktop/Flappy%20Bird/Flappy%20Bird/Flappy%20Bird-Info.plist0000000000000000^1033"ProcessInfoPlistFile DerivedData/Flappy\ Bird/Build/Products/Debug-iphonesimulator/Flappy\ Bird.app/Info.plist Flappy\ Bird/Flappy\ Bird-Info.plist    cd "/Users/JasonMillen/Desktop/Flappy Bird"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/JasonMillen/Desktop/Flappy\ Bird/Flappy\ Bird/Flappy\ Bird-Info.plist -genpkginfo /Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Products/Debug-iphonesimulator/Flappy\ Bird.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Intermediates/Flappy\ Bird.build/Debug-iphonesimulator/Flappy\ Bird.build/assetcatalog_generated_info.plist -o /Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Products/Debug-iphonesimulator/Flappy\ Bird.app/Info.plist36"3FF21E20-8202-4E08-87A1-1E97874E276B-
+b6397350F-5AFB-4399-9023-F6F243C15722
+
+CProcessPCH /Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Intermediates/PrecompiledHeaders/Flappy\ Bird-Prefix-cljgptwnhwajwvhhqqmrvqqeutio/Flappy\ Bird-Prefix.pch.pch Flappy\ Bird/Flappy\ Bird-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s432188156.462926
+e432188157.677177
+r1
+xProcessPCH
+x/Users/JasonMillen/Desktop/Flappy Bird/DerivedData/Flappy Bird/Build/Intermediates/PrecompiledHeaders/Flappy Bird-Prefix-cljgptwnhwajwvhhqqmrvqqeutio/Flappy Bird-Prefix.pch.pch
+xFlappy Bird/Flappy Bird-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/JasonMillen/Desktop/Flappy Bird/Flappy Bird/Flappy Bird-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile Flappy Bird/Flappy Bird-Prefix.pch256"ProcessPCH DerivedData/Flappy\ Bird/Build/Intermediates/PrecompiledHeaders/Flappy\ Bird-Prefix-cljgptwnhwajwvhhqqmrvqqeutio/Flappy\ Bird-Prefix.pch.pch Flappy\ Bird/Flappy\ Bird-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler2ec876fcaac2b941^f759adfdaac2b941^---0#0#1#-19%DVTDocumentLocation2@95"file://localhost/Users/JasonMillen/Desktop/Flappy%20Bird/Flappy%20Bird/Flappy%20Bird-Prefix.pch0000000000000000^3969"ProcessPCH DerivedData/Flappy\ Bird/Build/Intermediates/PrecompiledHeaders/Flappy\ Bird-Prefix-cljgptwnhwajwvhhqqmrvqqeutio/Flappy\ Bird-Prefix.pch.pch Flappy\ Bird/Flappy\ Bird-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/JasonMillen/Desktop/Flappy Bird"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Intermediates/Flappy\ Bird.build/Debug-iphonesimulator/Flappy\ Bird.build/Flappy\ Bird-generated-files.hmap -I/Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Intermediates/Flappy\ Bird.build/Debug-iphonesimulator/Flappy\ Bird.build/Flappy\ Bird-own-target-headers.hmap -I/Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Intermediates/Flappy\ Bird.build/Debug-iphonesimulator/Flappy\ Bird.build/Flappy\ Bird-all-target-headers.hmap -iquote /Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Intermediates/Flappy\ Bird.build/Debug-iphonesimulator/Flappy\ Bird.build/Flappy\ Bird-project-headers.hmap -I/Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Intermediates/Flappy\ Bird.build/Debug-iphonesimulator/Flappy\ Bird.build/DerivedSources/i386 -I/Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Intermediates/Flappy\ Bird.build/Debug-iphonesimulator/Flappy\ Bird.build/DerivedSources -F/Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Intermediates/PrecompiledHeaders/Flappy\ Bird-Prefix-cljgptwnhwajwvhhqqmrvqqeutio/Flappy\ Bird-Prefix.pch.dia -MMD -MT dependencies -MF /Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Intermediates/PrecompiledHeaders/Flappy\ Bird-Prefix-cljgptwnhwajwvhhqqmrvqqeutio/Flappy\ Bird-Prefix.pch.d -c /Users/JasonMillen/Desktop/Flappy\ Bird/Flappy\ Bird/Flappy\ Bird-Prefix.pch -o /Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Intermediates/PrecompiledHeaders/Flappy\ Bird-Prefix-cljgptwnhwajwvhhqqmrvqqeutio/Flappy\ Bird-Prefix.pch.pch36"BEF811F6-E131-45B8-B4C0-E9E8E6761593-
+b6397350F-5AFB-4399-9023-F6F243C15722
+
+CProcessPCH /Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Index/PrecompiledHeaders/Flappy\ Bird-Prefix-dobwwxsifatgnndjbvodyndzjeow_ast/Flappy\ Bird-Prefix.pch.pch Flappy\ Bird/Flappy\ Bird-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/JasonMillen/Desktop/Flappy\ Bird/DerivedData/Flappy\ Bird/Build/Products/Debug-iphonesimulator/Flappy\ Bird.app
+r0
+

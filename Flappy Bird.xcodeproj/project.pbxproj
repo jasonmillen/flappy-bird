@@ -21,6 +21,10 @@
 		6B59CA9419C2A8FE00F19B76 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6B59CA7619C2A8FE00F19B76 /* UIKit.framework */; };
 		6B59CA9C19C2A8FE00F19B76 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6B59CA9A19C2A8FE00F19B76 /* InfoPlist.strings */; };
 		6B59CA9E19C2A8FE00F19B76 /* Flappy_BirdTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6B59CA9D19C2A8FE00F19B76 /* Flappy_BirdTests.m */; };
+		6B59CAA919C2AAAD00F19B76 /* Game.m in Sources */ = {isa = PBXBuildFile; fileRef = 6B59CAA819C2AAAD00F19B76 /* Game.m */; };
+		6B59CAAB19C2AC2500F19B76 /* M.png in Resources */ = {isa = PBXBuildFile; fileRef = 6B59CAAA19C2AC2500F19B76 /* M.png */; };
+		6B59CAAD19C2B4C300F19B76 /* O.png in Resources */ = {isa = PBXBuildFile; fileRef = 6B59CAAC19C2B4C300F19B76 /* O.png */; };
+		6B59CAAF19C2BBCD00F19B76 /* O.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6B59CAAE19C2BBCD00F19B76 /* O.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +57,11 @@
 		6B59CA9919C2A8FE00F19B76 /* Flappy BirdTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Flappy BirdTests-Info.plist"; sourceTree = "<group>"; };
 		6B59CA9B19C2A8FE00F19B76 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		6B59CA9D19C2A8FE00F19B76 /* Flappy_BirdTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Flappy_BirdTests.m; sourceTree = "<group>"; };
+		6B59CAA719C2AAAD00F19B76 /* Game.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Game.h; path = ../Game.h; sourceTree = "<group>"; };
+		6B59CAA819C2AAAD00F19B76 /* Game.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Game.m; path = ../Game.m; sourceTree = "<group>"; };
+		6B59CAAA19C2AC2500F19B76 /* M.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = M.png; sourceTree = "<group>"; };
+		6B59CAAC19C2B4C300F19B76 /* O.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = O.png; sourceTree = "<group>"; };
+		6B59CAAE19C2BBCD00F19B76 /* O.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = O.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +126,8 @@
 				6B59CA8419C2A8FE00F19B76 /* Main.storyboard */,
 				6B59CA8719C2A8FE00F19B76 /* ViewController.h */,
 				6B59CA8819C2A8FE00F19B76 /* ViewController.m */,
+				6B59CAA719C2AAAD00F19B76 /* Game.h */,
+				6B59CAA819C2AAAD00F19B76 /* Game.m */,
 				6B59CA8A19C2A8FE00F19B76 /* Images.xcassets */,
 				6B59CA7919C2A8FE00F19B76 /* Supporting Files */,
 			);
@@ -126,6 +137,9 @@
 		6B59CA7919C2A8FE00F19B76 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				6B59CAAE19C2BBCD00F19B76 /* O.jpg */,
+				6B59CAAC19C2B4C300F19B76 /* O.png */,
+				6B59CAAA19C2AC2500F19B76 /* M.png */,
 				6B59CA7A19C2A8FE00F19B76 /* Flappy Bird-Info.plist */,
 				6B59CA7B19C2A8FE00F19B76 /* InfoPlist.strings */,
 				6B59CA7E19C2A8FE00F19B76 /* main.m */,
@@ -229,8 +243,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				6B59CA8B19C2A8FE00F19B76 /* Images.xcassets in Resources */,
+				6B59CAAB19C2AC2500F19B76 /* M.png in Resources */,
 				6B59CA7D19C2A8FE00F19B76 /* InfoPlist.strings in Resources */,
+				6B59CAAF19C2BBCD00F19B76 /* O.jpg in Resources */,
 				6B59CA8619C2A8FE00F19B76 /* Main.storyboard in Resources */,
+				6B59CAAD19C2B4C300F19B76 /* O.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -252,6 +269,7 @@
 				6B59CA8919C2A8FE00F19B76 /* ViewController.m in Sources */,
 				6B59CA8319C2A8FE00F19B76 /* AppDelegate.m in Sources */,
 				6B59CA7F19C2A8FE00F19B76 /* main.m in Sources */,
+				6B59CAA919C2AAAD00F19B76 /* Game.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
